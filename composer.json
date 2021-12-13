@@ -1,0 +1,12 @@
+{
+    "name": "artem/hexlet-php",
+    "description": "test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Artem Kachan",
+            "email": "artikdx@gmail.com"
+        }
+    ],
+    "require": {}
+}
