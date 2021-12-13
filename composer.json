@@ -8,5 +8,7 @@
             "email": "artikdx@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.75"
+    }
 }
